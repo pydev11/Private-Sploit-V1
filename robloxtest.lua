@@ -1,15 +1,3 @@
-local function WebhookPrinter()
-  local x = "Testing Side"
-  local y = "None Side"
-
-x not == y
-  
-  if x == y do
-      print(y)
-    else
-      print(x)
-end
-
 local Players = game:GetService("Players")
 
 Players.PlayerAdded:Connect(function(Player)
@@ -17,3 +5,5 @@ Players.PlayerAdded:Connect(function(Player)
 		v:Clone().Parent = Player
 	end
 end)
+
+local function Base64(Base4, Dylibs, Args1, Args2, Args3, Args4)
