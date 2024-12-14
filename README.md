@@ -6,7 +6,7 @@ After that install The exploited roblox aka printsploit/exploitedroblox.sh which
 then install the sploit code / download
 
 # 2. Open Macos Terminal and put
-cd ~/Put/printsploit
+cd ~/Private-Sploit-V1-main/printsploit
 where it says put is where u would put where the folder is.
 then put python3 main.py
 
