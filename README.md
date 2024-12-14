@@ -1,19 +1,17 @@
-# HOW TO USE THIS
+# 1. Download Python 3.9.5
+# Go to the Python 3.9.5 download page:
+# https://www.python.org/downloads/release/python-395/
+# Download the installer for your operating system.
 
-First u would want to download python 3.9.5 from here
+# 2. Prepare the Script
+# Navigate to the printsploit folder.
+# Locate the exploitedroblox.sh file, then copy and paste it into the macOS terminal to execute.
 
-https://www.python.org/downloads/release/python-395/
+# 3. Install the Source Code
+# Open the Terminal application on your macOS.
 
-then go to printsploit folder and find exploitedroblox.sh and copy it and paste and run in the macos terminal
+# 4. Navigate to the Project Folder
+cd ~/Desktop/printsploit
 
-after that go ahead and install the source code
-
-After open terminal and then put
-
-cd ~/desktop/printsploit
-
-for this to work put it in desktpp or ur choice
-
-and then do
-
+# 5. Run the Script
 python3 main.py
