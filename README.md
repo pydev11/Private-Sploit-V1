@@ -1,7 +1,9 @@
 # 1. Install Python3 From
 https://www.python.org/downloads/release/python-395/
 
-After that install The source folder
+After that install The exploited roblox aka printsploit/exploitedroblox.sh which u put in terminal
+
+then install the sploit code / download
 
 # 2. Open Macos Terminal and put
 cd ~/Put/printsploit
