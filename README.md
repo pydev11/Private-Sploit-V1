@@ -8,6 +8,7 @@ then install the zip
 
 # 2. Open Macos Terminal and put
 cd ~/Downloads/Private-Sploit-V1-main/printsploit
+
 python3 main.py
 
 # 3. After That ur good !
