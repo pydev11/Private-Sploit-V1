@@ -1,17 +1,14 @@
-# 1. Download Python 3.9.5
-# Go to the Python 3.9.5 download page:
-# https://www.python.org/downloads/release/python-395/
-# Download the installer for your the working ( MacOS )
+# 1. Install Python3 From
+https://www.python.org/downloads/release/python-395/
 
-2. Set Up
-Navigate to the printsploit folder.
-Locate the exploitedroblox.sh file, then copy and paste it into the macOS terminal to work
+After that install The source folder
 
-3. Install the Source Code
-Open the Terminal application on your macOS.
+# 2. Open Macos Terminal and put
+cd ~/Put/printsploit
+where it says put is where u would put where the folder is.
+then put python3 main.py
 
-4. Navigate to terminal and put
-cd ~/Desktop/printsploit
+# 3. After That ur good !
 
-5. Run the Script
-python3 main.py
+
+discord server soon !
