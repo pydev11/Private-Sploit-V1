@@ -25,6 +25,6 @@ int main()
 
 __attribute__((constructor)) void entry()
 {
-    printf("[ Custom printsploit dylib injected ]\n");
+    printf("PrintSploit Injected\n");
     std::thread(main).detach();
 }
