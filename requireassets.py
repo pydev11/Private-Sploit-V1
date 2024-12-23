@@ -8,6 +8,8 @@ TestCookie = ""
 
 #URL List
 
+# list of apis to say
+
 MobileAPI = "https://www.roblox.com/mobileapi/"
 FriendsAPI = "https://friends.roblox.com/v1/users/"
 APIURL = "https://api.roblox.com/"
